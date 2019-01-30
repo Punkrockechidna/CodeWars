@@ -44,3 +44,7 @@ return finalStr.slice(1);
 // function comparator(word, nextWord) {
 //   return +word.match(reg) - +nextWord.match(reg)
 // }
+
+// function order(words) {
+//     return words.split(' ').sort((wordA, wordB) => wordA.match(/\d+/) > wordB.match(/\d+/)).join(' ')
+//   }
